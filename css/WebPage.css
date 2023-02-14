@@ -14,14 +14,15 @@ img{
 }
 .indent{
 	text-indent: 50px;
-	font-size: ;
 }
 .p1{
 	text-indent: 40px;
 }
 .profile{
 	height: auto;
-	width: 40%;
+	width: 30%;
 	padding-left: 25px;
 }
+.link{
+	float: right;
 }
